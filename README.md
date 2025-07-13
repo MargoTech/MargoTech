@@ -20,9 +20,9 @@ Frontend Developer | JavaScript | React
 | Project | Tech | Description | Demo |
 |--------|------|-------------|------|
 | Weather App | React, API | Fetches live weather data & adapts UI by conditions | [Live](https://...) |
-| Learn Programming With Me App | React, API | Learn coding for begginers | [Live](https://study-programming-with-me-app.vercel.app) |
+| Learn Programming With Me App | React, API | Learn coding for begginers | (https://study-programming-with-me-app.vercel.app) |
 | Expense Tracker | React, API | Track your expenses | [Live](https://...) |
-| Mood Tracker | React | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app
+| Mood Tracker | React | Track your moods | (https://mood-tracker-app-kohl.vercel.app
 ) |
 | Chat App | React | Chat with the bot| [Live](https://app-chat-liard.vercel.app
 ) |
