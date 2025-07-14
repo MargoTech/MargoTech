@@ -19,14 +19,12 @@ Frontend Developer | JavaScript | React
 
 | Project | Tech | Description | Demo |
 |--------|------|-------------|------|
-| Weather App | React, API | Fetches live weather data & adapts UI by conditions | [Live](https://...) |
+| Weather App | React, API | Fetches live weather data & adapts UI by conditions | [Live](https://6875043a17175878b5ab9ead--forecast-tracker.netlify.app/) |
 | Learn Programming With Me App | React, API | Learn coding for begginers | [Live](https://study-programming-with-me-app.vercel.app) |
-| Expense Tracker | React, API | Track your expenses | [Live](https://...) |
-| Mood Tracker | React | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app
-) |
-| Chat App | React | Chat with the bot| [Live](https://app-chat-liard.vercel.app
-) |
-| Portfolio Website | HTML/CSS/JS | Personal landing page | [Live](https://...) |
+| Expense Tracker | React, API | Track your expenses | [Live](https://6875056c6f686197f3125742--expencse-tracker.netlify.app/) |
+| Mood Tracker | React | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app) |
+| Chat App | React | Chat with the bot| [Live](https://app-chat-liard.vercel.app) |
+| Portfolio Website | HTML/CSS/JS | Personal landing page | [Live](https://687502960917e84742bac347--portfolio-margo.netlify.app/) |
 
 👉 Check all projects at (https://github.com/MargoTech)
 
