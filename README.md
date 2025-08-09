@@ -24,7 +24,7 @@ Frontend Developer | JavaScript | React
 | Expense Tracker | React, API | Track your expenses | [Live](https://6875056c6f686197f3125742--expencse-tracker.netlify.app/) |
 | Mood Tracker | React | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app) |
 | Chat App | React | Chat with the bot| [Live](https://app-chat-liard.vercel.app) |
-| Portfolio Website | HTML/CSS/JS | Personal landing page | [Live](https://687502960917e84742bac347--portfolio-margo.netlify.app/) |
+| Portfolio Website | HTML/CSS/JS | Personal landing page | [Live](https://68975764d151db1d0c3e6efd--portfolio-margo.netlify.app/) |
 
 👉 Check all projects at (https://github.com/MargoTech)
 
