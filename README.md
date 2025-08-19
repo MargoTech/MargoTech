@@ -23,6 +23,7 @@ Frontend Developer | JavaScript | React
 | Learn Programming With Me App | React, API | Learn coding for begginers | [Live](https://study-programming-with-me-app.vercel.app) |
 | Expense Tracker | React, API | Track your expenses | [Live](https://6875056c6f686197f3125742--expencse-tracker.netlify.app/) |
 | Mood Tracker | React | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app) |
+| Habit Tracker | React | Track your moods | [Live]([https://mood-tracker-app-kohl.vercel.app](https://68a46afceb747d1556d785d8--habit-tracker-app-margo.netlify.app/)) |
 | Chat App | React | Chat with the bot| [Live](https://app-chat-liard.vercel.app) |
 | Portfolio Website | HTML/CSS/JS | Personal landing page | [Live](https://68975764d151db1d0c3e6efd--portfolio-margo.netlify.app/) |
 
