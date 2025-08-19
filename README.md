@@ -19,13 +19,13 @@ Frontend Developer | JavaScript | React
 
 | Project | Tech | Description | Demo |
 |--------|------|-------------|------|
-| Weather App | React, Vite, Tailwind, Netlify | Fetches live weather data & adapts UI by conditions | [Live](https://6875043a17175878b5ab9ead--forecast-tracker.netlify.app/) |
+| Portfolio Website | React, Vite, Tailwind, Netlify| Personal landing page | [Live](https://68975764d151db1d0c3e6efd--portfolio-margo.netlify.app/) |
 | Learn Programming With Me App | React, API,  Vite, Tailwind, Vercel | Learn coding for begginers | [Live](https://study-programming-with-me-app.vercel.app) |
-| Expense Tracker | React, Vite, Tailwind, Netlify | Track your expenses | [Live](https://6875056c6f686197f3125742--expencse-tracker.netlify.app/) |
 | Mood Tracker | React, Vite, Tailwind, Vercel | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app) |
+| Expense Tracker | React, Vite, Tailwind, Netlify | Track your expenses | [Live](https://6875056c6f686197f3125742--expencse-tracker.netlify.app/) |
 | Habit Tracker | React, Vite, Tailwind, Netlify | Track your habits | [Live](https://68a46afceb747d1556d785d8--habit-tracker-app-margo.netlify.app/) |
 | Chat App | React, Vite, Tailwind, Vercel | Chat with the bot| [Live](https://app-chat-liard.vercel.app) |
-| Portfolio Website | React, Vite, Tailwind, Netlify| Personal landing page | [Live](https://68975764d151db1d0c3e6efd--portfolio-margo.netlify.app/) |
+| Weather App | React, Vite, Tailwind, Netlify | Fetches live weather data & adapts UI by conditions | [Live](https://6875043a17175878b5ab9ead--forecast-tracker.netlify.app/) |
 
 👉 Check all projects at (https://github.com/MargoTech)
 
