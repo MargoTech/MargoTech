@@ -19,7 +19,7 @@ Frontend Developer | JavaScript | React
 
 | Project | Tech | Description | Demo |
 |--------|------|-------------|------|
-| Portfolio Website | React, Vite, Tailwind, Netlify| Personal landing page | [Live](https://68a48610111c07000836c402--portfolio-margo.netlify.app/) |
+| Portfolio Website | React, Vite, Tailwind, Netlify| Personal landing page | [Live](https://68b7417c26dc79000964090b--portfolio-margo.netlify.app/) |
 | Learn Programming With Me App | React, API,  Vite, Tailwind, Vercel | Learn coding for begginers | [Live](https://study-programming-with-me-app.vercel.app) |
 | Mood Tracker | React, Vite, Tailwind, Vercel | Track your moods | [Live](https://mood-tracker-app-kohl.vercel.app) |
 | Expense Tracker | React, Vite, Tailwind, Netlify | Track your expenses | [Live](https://687bb323699ee90008985a55--expencse-tracker.netlify.app/) |
