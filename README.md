@@ -25,7 +25,7 @@ Frontend Developer | JavaScript | React
 | Expense Tracker | React, Vite, Tailwind, Netlify | Track your expenses | [Live](https://690a20d7007de60008b7c010--expense-income-tracker-project.netlify.app/) |
 | Habit Tracker | React, Vite, Tailwind, Netlify | Track your habits | [Live](https://68a46afceb747d1556d785d8--habit-tracker-app-margo.netlify.app/) |
 | Chat App | React, Vite, Tailwind, Vercel | Chat with the bot| [Live](https://app-chat-liard.vercel.app) |
-| Weather App | React, Vite, Tailwind, Netlify | Fetches live weather data & adapts UI by conditions | [Live](https://68b5b1e4dc9050d3288559a9--forecats-app.netlify.app/) |
+| Weather App | React, Vite, Tailwind, Netlify | Fetches live weather data & adapts UI by conditions | [Live](https://68b5baad37fec400084b287b--forecats-app.netlify.app/) |
 
 👉 Check all projects at (https://github.com/MargoTech)
 
